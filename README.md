@@ -22,3 +22,6 @@ To run the goal publisher node, run this command in new terminal
 rosrun ar1_nav_stack waypoint_navigation.py 
 ```
 This will ask for number of goals and it's respective goal points from the user.
+
+## Video
+https://youtu.be/1yC7s4zO0Zw
