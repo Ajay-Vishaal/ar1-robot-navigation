@@ -3,7 +3,7 @@
 ## Setup
 Clone the repository into your workspace
 ```
-git clone git clone https://github.com/Ajay-Vishaal/ar1-robot-navigation.git
+git clone https://github.com/Ajay-Vishaal/ar1-robot-navigation.git
 ```
 Build the package using the command
 ```
