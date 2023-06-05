@@ -223,10 +223,10 @@ Visualization Manager:
       Value: true
     - Class: rviz/Marker
       Enabled: true
-      Marker Topic: /path_marker
+      Marker Topic: /visualization_marker
       Name: Marker
       Namespaces:
-        "": true
+        {}
       Queue Size: 100
       Value: true
   Enabled: true
@@ -293,5 +293,5 @@ Window Geometry:
   Views:
     collapsed: true
   Width: 1048
-  X: 72
-  Y: 27
+  X: 727
+  Y: 149
